@@ -4,11 +4,12 @@ import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import "bootstrap/dist/css/bootstrap.min.css";
+import Home from "./pages/home/Home";
 
 const router = createBrowserRouter([
 	{
 		path: "/",
-		element: <div className="display-6">Hello world!</div>,
+		element: <Home></Home>,
 	},
 ]);
 

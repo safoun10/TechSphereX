@@ -1,11 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap");
 
 :root {
-	/*
-	--color-60: #ffffff;
-	--color-20: #ffffff;
-	--color-10: #ffffff; 
-	*/
+	--color-60: #151619;
+	--color-30: #304934;
+	--color-10: #d6cc99;
 
 	font-synthesis: none;
 	text-rendering: optimizeLegibility;
@@ -23,4 +21,34 @@ body {
 
 .text-fancy {
 	font-family: "Gabarito", cursive !important;
+}
+
+.bg-one {
+	background-color: var(--color-60) !important;
+}
+
+.text-one {
+	color: var(--color-60) !important;
+}
+
+.bg-two {
+	background-color: var(--color-30) !important;
+}
+
+.text-two {
+	color: var(--color-30) !important;
+}
+
+.bg-three {
+	background-color: var(--color-10) !important;
+}
+
+.text-three {
+	color: var(--color-10) !important;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
