@@ -15,9 +15,9 @@
 
 * [coming very soon..........]
 
-## Authors
+## Author
 
-MD Sultan Mahmud Safoun | [@safoun10](https://github.com/safoun10)
+MD Sultan Mahmud Safoun || [@safoun10](https://github.com/safoun10)
 
 
 ## License
@@ -26,4 +26,4 @@ This project is not licensed (yet)...
 
 ## Acknowledgments
 
-[coming very soon..........]
+[will work solo as long as possible]
