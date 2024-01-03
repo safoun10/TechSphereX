@@ -6,7 +6,7 @@ const Dream = () => {
 			<div className="col-11 col-md-5">photo</div>
 			<div className="col-11 col-md-7 text-end">
 				<p>Build your dream with us</p>
-				<div className="">
+				<div>
 					<img
 						className="img-fluid w-25 border"
 						src="https://i.postimg.cc/Px4gyh3S/proper-techspherex-without-bg-Photo-Room-png-Photo-Room.png"
