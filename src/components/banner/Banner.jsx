@@ -11,7 +11,7 @@ const Banner = () => {
 			>
 				<div className="col-11 col-md-7">
 					<p>
-						<span className="display-2 ">TechSphereX </span>
+						<span className="display-2 ">TechSphereX</span>
 						<br />
 						<span className="display-5">
 							Your team of nerd developers
