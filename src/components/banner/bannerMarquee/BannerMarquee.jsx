@@ -1,8 +1,8 @@
-import React from 'react';
-import Marquee from 'react-fast-marquee';
+import React from "react";
+import Marquee from "react-fast-marquee";
 
 const BannerMarquee = () => {
-    return (
+	return (
 		<div>
 			<div>
 				<div className="text-white text-center pb-3 fs-4">
